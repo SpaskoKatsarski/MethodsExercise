@@ -17,13 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T06. Middle Characters", "T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T07. NxN Matrix", "T07. NxN Matrix\T07. NxN Matrix.csproj", "{B387EDAF-6EBC-45A9-8FB4-1D1635E35EB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T10. Top Number", "T10. Top Number\T10. Top Number.csproj", "{B563F7D1-3040-45B9-ABBC-6D3E8B8023F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T10. Top Number", "T10. Top Number\T10. Top Number.csproj", "{B563F7D1-3040-45B9-ABBC-6D3E8B8023F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T09. Palindrome Integers", "T09. Palindrome Integers\T09. Palindrome Integers.csproj", "{EFA7A800-2566-4075-9B74-A5D151BF0434}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T09. Palindrome Integers", "T09. Palindrome Integers\T09. Palindrome Integers.csproj", "{EFA7A800-2566-4075-9B74-A5D151BF0434}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08. Factorial Division", "T08. Factorial Division\T08. Factorial Division.csproj", "{F9C3BF73-EFEF-460A-8FA4-7C415F794F23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T08. Factorial Division", "T08. Factorial Division\T08. Factorial Division.csproj", "{F9C3BF73-EFEF-460A-8FA4-7C415F794F23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04. Password Validator Retake", "T04. Password Validator Retake\T04. Password Validator Retake.csproj", "{D131A271-058B-4DDF-955A-05FD80FD7676}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T04. Password Validator Retake", "T04. Password Validator Retake\T04. Password Validator Retake.csproj", "{D131A271-058B-4DDF-955A-05FD80FD7676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T.11.ArrayManipulator", "T.11.ArrayManipulator\T.11.ArrayManipulator.csproj", "{05E0A6FC-3745-46CE-BB1B-A064A399949E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{D131A271-058B-4DDF-955A-05FD80FD7676}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D131A271-058B-4DDF-955A-05FD80FD7676}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D131A271-058B-4DDF-955A-05FD80FD7676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05E0A6FC-3745-46CE-BB1B-A064A399949E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E0A6FC-3745-46CE-BB1B-A064A399949E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E0A6FC-3745-46CE-BB1B-A064A399949E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E0A6FC-3745-46CE-BB1B-A064A399949E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
